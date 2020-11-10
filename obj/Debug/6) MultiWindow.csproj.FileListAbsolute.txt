@@ -1,0 +1,10 @@
+F:\ITStep\2 курс\WF\CW\6) MultiWindow\bin\Debug\6) MultiWindow.exe.config
+F:\ITStep\2 курс\WF\CW\6) MultiWindow\bin\Debug\6) MultiWindow.exe
+F:\ITStep\2 курс\WF\CW\6) MultiWindow\bin\Debug\6) MultiWindow.pdb
+F:\ITStep\2 курс\WF\CW\6) MultiWindow\obj\Debug\6) MultiWindow.csprojAssemblyReference.cache
+F:\ITStep\2 курс\WF\CW\6) MultiWindow\obj\Debug\_6__MultiWindow.Form1.resources
+F:\ITStep\2 курс\WF\CW\6) MultiWindow\obj\Debug\_6__MultiWindow.Properties.Resources.resources
+F:\ITStep\2 курс\WF\CW\6) MultiWindow\obj\Debug\6) MultiWindow.csproj.GenerateResource.cache
+F:\ITStep\2 курс\WF\CW\6) MultiWindow\obj\Debug\6) MultiWindow.exe
+F:\ITStep\2 курс\WF\CW\6) MultiWindow\obj\Debug\6) MultiWindow.pdb
+F:\ITStep\2 курс\WF\CW\6) MultiWindow\obj\Debug\_6__MultiWindow.ProductForm.resources
