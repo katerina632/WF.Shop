@@ -8,3 +8,4 @@ F:\ITStep\2 курс\WF\CW\6) MultiWindow\obj\Debug\6) MultiWindow.csproj.Genera
 F:\ITStep\2 курс\WF\CW\6) MultiWindow\obj\Debug\6) MultiWindow.exe
 F:\ITStep\2 курс\WF\CW\6) MultiWindow\obj\Debug\6) MultiWindow.pdb
 F:\ITStep\2 курс\WF\CW\6) MultiWindow\obj\Debug\_6__MultiWindow.ProductForm.resources
+F:\ITStep\2 курс\WF\CW\6) MultiWindow\obj\Debug\6) MultiWindow.csproj.CoreCompileInputs.cache

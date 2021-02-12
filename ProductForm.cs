@@ -49,6 +49,12 @@ namespace _6__MultiWindow
                 return;
             }
 
+            if (pricenumericUpDown1.Value==0)
+            {
+                MessageBox.Show("Enter price of the product!");
+                return;
+            }
+
             if (countryComboBox1.SelectedIndex==-1)
             {
                 MessageBox.Show("Select country!");
@@ -59,7 +65,7 @@ namespace _6__MultiWindow
             Product.Discount = Convert.ToDecimal(discountNumericUpDown3.Value);
             Product.Quantity = Convert.ToInt32(countNumericUpDown2.Value);
             Product.Country = countryComboBox1.SelectedItem.ToString();
-
+            
             this.DialogResult = DialogResult.OK;
             this.Close();
         }
